@@ -3,8 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 
 # === KEYS ===
-NEWS_API_KEY = "fd04049cc88a49abb6c9bd52906a87a0"
-WEATHER_API_KEY = "2262177d27d055f9ce50aee29400a925"
+NEWS_API_KEY = "YOUR_NEWS_API"
+WEATHER_API_KEY = "YOUR_WEATHER_API"
 
 # ----------- Wikipedia Search -----------
 def search_wikipedia(query):
