@@ -1,5 +1,5 @@
 # infoSeeker_ai
-<h1>This is an model that use wikipedia,web search, weather, latest news.</h1>
+<h2>This is an model that use wikipedia,web search, weather, latest news.</h2>
 
 <li>Use "who is _____". (for wikipedia)</li>
 <li>Use "Latest News". (for latest news information)</li>
