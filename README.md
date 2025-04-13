@@ -6,4 +6,4 @@
 <li>Use "Weather in _____". (for weather information)</li>
 <li>Use anything for web search.</li>
 
-<br>Author -- Priyansh shiroia</br>
+<h3>Author -- Priyansh shiroia</h3>
